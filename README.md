@@ -11,7 +11,7 @@ Lets open a CMD or Terminal, and enter commands.
 ```sh
 $ git clone https://github.com/c3p0ninja/Ninja-Scan.git
 $ cd Ninja-Scan
-$ python3 Ninja-Scan
+$ python3 Ninja-Scan.py
 ```
 Enter IP adress or localhost.
 
